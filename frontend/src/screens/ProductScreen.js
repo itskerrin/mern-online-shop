@@ -31,7 +31,7 @@ const ProductScreen = ({ match }) => {
           </ListGroup>
         </Col>
 
-        {/* Right side column */}
+        {/* Right side column - item 'status/order' menu */}
         <Col md={3}>
           <Card>
             <ListGroup variant="flush">
